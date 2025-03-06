@@ -6,6 +6,7 @@ body {
    background: var(--background);
 }
 
+
 #nav-Bar-Top{
  width: 100%;
 display: inline-block;
@@ -28,5 +29,18 @@ font-size: 30px;
 }
 
 .bottomContainer, .invitation {
-     margin-top: 150px;
+     margin-top: 125px;
+}
+
+.navbarNav{
+    display: flex;
+    justify-content: center;
+}
+
+.nav-Bar-Top{
+  font-family: "Rubik Spray Paint", system-ui;
+  font-weight: 400;
+  font-style: normal;
+
+
 }
