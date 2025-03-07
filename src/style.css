@@ -58,15 +58,26 @@ font-size: 30px;
 .paintballLink, .cabinLink {
     text-align: center;
     font-weight: bolder;
-    color: white;
+    color: black;
     font-size: 30px;
-    text-decoration: none;
+    
    
     border-radius: 30px;
     display: block;
     margin: 0;
+    margin-top: 300px;
 }
 
+.paintballLink:hover {
+   
+    color: white;
+}
+
+.cabinLink:hover {
+   
+    color: white;
+}
+ 
 
 
 #nav-Bar-Top{
@@ -87,4 +98,6 @@ font-size: 30px;
    margin-left: 50px;
    margin-right: 50px;
 }
+
+
 
